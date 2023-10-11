@@ -1,0 +1,18 @@
+{
+  "name": "image-resizer",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/pngjs": "^6.0.2",
+    "pngjs": "^7.0.0"
+  },
+  "scripts": {
+    "start": "bun run index.ts"
+  }
+}

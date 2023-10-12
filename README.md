@@ -4,7 +4,7 @@ This is a simple image resizer that takes an image from the `input` directory, d
 
 ## Important
 
-Note that this project has been created using Bun (because it just works). So the start script is "bun run index.ts" istead of "node ."
+Note that this project has been created using Bun (because it just works). So the start script is `bun run index.ts` istead of `node .`
 
 ## Getting Started
 
